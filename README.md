@@ -16,15 +16,14 @@
 - [x] [cite_start]Notifikasi Sistem (Heads-up) [cite: 24]
 
 ### Bukti Screenshot Aplikasi
-### Bukti Screenshot Aplikasi
-![Login](screenschot%20pinterest%20clone/login.png)
-![Home](screenschot%20pinterest%20clone/list.png)
-![Add](screenschot%20pinterest%20clone/add.png)
-![Edit](screenschot%20pinterest%20clone/edit.png)
-![Detail](screenschot%20pinterest%20clone/detail.png)
-![Notifikasi](screenschot%20pinterest%20clone/notifikasi_1.png)
-![Notifikasi](screenschot%20pinterest%20clone/notifikasi_2.png)
-![Notifikasi](screenschot%20pinterest%20clone/notifikasi_3.png)
-![Notifikasi](screenschot%20pinterest%20clone/notifikasi_4.png)
-![Notifikasi](screenschot%20pinterest%20clone/notifikasi_5.png)
-![Notifikasi](screenschot%20pinterest%20clone/notifikasi_download.png)
+![Login](login.jpeg)
+![Home](list.jpeg)
+![Add](add.jpeg)
+![Edit](edit.jpeg)
+![Detail](detail.jpeg)
+![Notifikasi](notifikasi_1.jpeg)
+![Notifikasi](notifikasi_2.jpeg)
+![Notifikasi](notifikasi_3.jpeg)
+![Notifikasi](notifikasi_4.jpeg)
+![Notifikasi](notifikasi_5.jpeg)
+![Notifikasi](notifikasi_download.jpeg)
