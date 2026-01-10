@@ -14,3 +14,17 @@
 - [x] [cite_start]CRUD Realtime Database [cite: 19, 20]
 - [x] [cite_start]Implementasi Fragment & Intent [cite: 21, 22]
 - [x] [cite_start]Notifikasi Sistem (Heads-up) [cite: 24]
+
+### Bukti Screenshot Aplikasi
+### Bukti Screenshot Aplikasi
+![Login](screenschot%20pinterest%20clone/login.png)
+![Home](screenschot%20pinterest%20clone/list.png)
+![Add](screenschot%20pinterest%20clone/add.png)
+![Edit](screenschot%20pinterest%20clone/edit.png)
+![Detail](screenschot%20pinterest%20clone/detail.png)
+![Notifikasi](screenschot%20pinterest%20clone/notifikasi_1.png)
+![Notifikasi](screenschot%20pinterest%20clone/notifikasi_2.png)
+![Notifikasi](screenschot%20pinterest%20clone/notifikasi_3.png)
+![Notifikasi](screenschot%20pinterest%20clone/notifikasi_4.png)
+![Notifikasi](screenschot%20pinterest%20clone/notifikasi_5.png)
+![Notifikasi](screenschot%20pinterest%20clone/notifikasi_download.png)
