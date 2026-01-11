@@ -16,7 +16,8 @@
 - [x] [cite_start]Notifikasi Sistem (Heads-up) [cite: 24]
 
 ### Bukti Screenshot Aplikasi
-![Login](login.jpeg)
+![Login1](login1.jpeg)
+![buat_akun_baru](buat_akun_baru.jpeg)
 ![Home](list.jpeg)
 ![Add](add.jpeg)
 ![Edit](edit.jpeg)
