@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938710092308",
+    "project_id": "hands10firebase",
+    "storage_bucket": "hands10firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938710092308:android:3be4004ad5399a71273501",
+        "android_client_info": {
+          "package_name": "com.example.hands10_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7PQgF5xagEACBDeFNUKFjZX-zuFXy7bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

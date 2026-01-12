@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hands10_firebase</string>
+    <string name="umur">Umur</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+
+    <string name="user_handle">@ahmadridha1702</string>
+</resources>

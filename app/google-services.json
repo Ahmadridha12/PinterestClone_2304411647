@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938710092308",
+    "firebase_url": "https://hands10firebase-default-rtdb.firebaseio.com",
+    "project_id": "hands10firebase",
+    "storage_bucket": "hands10firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938710092308:android:3be4004ad5399a71273501",
+        "android_client_info": {
+          "package_name": "com.example.hands10_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938710092308-85topacsluv20qnmfobmgkj1n64nlio9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hands10_firebase",
+            "certificate_hash": "2cad9814fc6e89e9d3c4b859d4853fde0d2fb854"
+          }
+        },
+        {
+          "client_id": "938710092308-khfccue94no3hh7gkkb8reen4tmtgokp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7PQgF5xagEACBDeFNUKFjZX-zuFXy7bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938710092308-khfccue94no3hh7gkkb8reen4tmtgokp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
